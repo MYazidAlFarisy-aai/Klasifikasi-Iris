@@ -1,2 +1,13 @@
-# Klasifikasi-Iris
-Program python data science untuk mengklasifikasikan jenis bunga Iris
+# Project Python for Data Science 
+### Program python untuk mengklasifikasikan jenis bunga iris menggunakan model machine learning (naive bayes, decision tree, svm, logistik regression dan KNN) 
+
+## Mentee assignment from IBM Advance AI @ Infinite Learning
+## Mentee Info
+
+### Name : Muhammad Yazid Al Farisy
+### Program : IBM Advance AI
+### Tech Stack :
+- Pyhton
+- HTML
+- CSS
+- JavaScript

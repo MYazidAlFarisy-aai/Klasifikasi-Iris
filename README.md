@@ -1,7 +1,7 @@
 # Project Python for Data Science 
 ### Program python untuk mengklasifikasikan jenis bunga iris menggunakan model machine learning (naive bayes, decision tree, svm, logistik regression dan KNN) 
-#### Link dataset klik [disini](https://www.kaggle.com/datasets/uciml/iris).
-#### Link kode klik [disini](https://colab.research.google.com/drive/1bqspbj-hmwXkN6WxctV1ge-cdYJXXWuA?usp=sharing).
+#### Link dataset klik [disini](https://www.kaggle.com/datasets/arshid/iris-flower-dataset).
+#### Link kode original klik [disini](https://www.kaggle.com/code/gauravahujaravenclaw/iris-dataset-analysis-and-machine-learning#Part-2---Data-Visualization).
 
 ## Mentee assignment from IBM Advance AI @ Infinite Learning
 ## Mentee Info
